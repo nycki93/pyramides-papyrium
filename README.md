@@ -1,4 +1,4 @@
-# PYRAMIDES PAPYRIUM v0.1.0
+# PYRAMIDES PAPYRIUM v1.0.0
 
 A DIY kit to make gaming pyramids for yourself, or mail to a friend!
 
