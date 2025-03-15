@@ -1,5 +1,6 @@
 # PYRAMIDES PAPYRIUM v1.0.0
 
+
 A DIY kit to make gaming pyramids for yourself, or mail to a friend!
 
 By Nycki Lamicela, 2025. Licensed by CC-SA-NC, meaning you can modify and share these files but not sell them or remove my name. Please tell me if you use it! You should be able to find my current info at <http://nycki.net>.
@@ -8,7 +9,7 @@ Inspired by Icehouse, by Andy Looney, John Cooper, and all their cool hippie fri
 
 GNU Kory Heath.
 
----
+![stacks of assembled pyramids](demo-stacked.jpg)
 
 ## Files
 
@@ -25,3 +26,5 @@ I used a plugin called inkscape-silhouette, which as you might expect, is a plug
 There are three main patterns: Pyramid sheet one, pyramid sheet two, and box sheet three. Sheet one makes 1 small, 2 medium, and 1 large. Sheet two makes 2 small and 2 large. By alternating these two patterns you will get 4 trios for every 3 pages. Pretty good, right?
 
 TODO: finish describing the construction of the pieces here.
+
+![a box of stacked pyramids](demo-boxed.jpg)
